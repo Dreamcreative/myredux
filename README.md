@@ -4,7 +4,7 @@
 
 ### store 对象中包含了 dispatch/getState/subscribe 3 个方法
 
-1. dispatch 方法 触发 reducer 事件
+1. dispatch 方法 触发 reducer 事件 
 2. getState 方法 获得当前所有的 state 状态
    reducers 发送命令 ???
 
